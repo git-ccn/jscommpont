@@ -1,0 +1,20 @@
+{
+  "name": "jscommpont",
+  "version": "1.0.3",
+  "description": "封装基础的使用js方法",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/git-ccn/Mynpm.git"
+  },
+  "author": "ccn",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "moment": "^2.29.4"
+  }
+}
